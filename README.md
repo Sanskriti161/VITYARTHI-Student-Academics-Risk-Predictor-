@@ -80,7 +80,8 @@ VITYARTHI-Student-Risk-Predictor/
   handles them gracefully without crashing.
 
 ## Screenshots
-_(Add terminal screenshots here after running the project.)_
+<img width="913" height="685" alt="Screenshot 2026-09-17 020416" src="https://github.com/user-attachments/assets/b2e10693-b949-4e3a-b17e-d08218e070d7" />
+
 
 ## Future Enhancements
 - Replace the synthetic dataset with real, anonymized institutional data.
