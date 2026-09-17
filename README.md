@@ -1,13 +1,11 @@
 # Student Academic Risk Predictor
 
 ## Overview
-A command-line Python application that predicts a student's academic risk
+An application that predicts a student's academic risk
 level (**Low / Medium / High**) using **Attendance %**, **Study Hours per
-day**, and **Marks**, based on a `DecisionTreeClassifier` trained with
+day** and **Marks**, based on a `DecisionTreeClassifier` trained with
 `scikit-learn`.
 
-Built for the CSA2001 – Fundamentals in AI and ML course project
-(VITyarthi "Build Your Own Project").
 
 ## Features
 - Loads and preprocesses a labelled student dataset with `pandas`.
@@ -48,7 +46,7 @@ VITYARTHI-Student-Risk-Predictor/
    cd VITYARTHI-Student-Risk-Predictor
    ```
 
-2. **(Recommended) Create a virtual environment:**
+2. **Create a virtual environment:**
    ```bash
    python -m venv venv
    source venv/bin/activate      # On Windows: venv\Scripts\activate
